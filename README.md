@@ -1,2 +1,2 @@
-# IDLS-Project-Federated-Learning-
+# IDLS-Project-Federated-Learning
 Fall 2023
